@@ -1,0 +1,5 @@
+input_str = input()
+name, n = input_str.split()
+n = int(n)
+result = ' '.join([name] * n)
+print(result)
