@@ -1,0 +1,6 @@
+x= input()
+a, b = x.split()
+yuza = int(a) * int(b)
+perimetr = 2 * (int(a) + int(b))
+print("Yuza:", yuza)
+print("Perimetr:", perimetr)
