@@ -1,0 +1,5 @@
+numbers = list(map(int, input().split()))
+count = len(numbers)
+total = sum(numbers)
+print(count)
+print(total)
