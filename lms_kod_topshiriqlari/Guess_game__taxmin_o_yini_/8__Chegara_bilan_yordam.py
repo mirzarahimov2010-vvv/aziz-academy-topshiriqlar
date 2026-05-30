@@ -1,0 +1,9 @@
+a = int(input())
+b = int(input())
+c = int(input())
+if a == b == c:
+    print("Ok")
+else:
+    print("Far")
+    print("Close")
+    print("Correct")
