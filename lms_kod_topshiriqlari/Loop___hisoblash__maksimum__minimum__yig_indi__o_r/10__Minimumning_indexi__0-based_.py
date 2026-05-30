@@ -1,0 +1,5 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+min_value = min(sonlar)
+min_index = sonlar.index(min_value)
+print(min_index)
