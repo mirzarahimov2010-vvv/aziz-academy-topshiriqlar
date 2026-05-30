@@ -1,0 +1,7 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+yigindi = 0
+for x in sonlar:
+    if x > 10:
+        yigindi += x
+print(yigindi)
