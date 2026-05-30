@@ -1,0 +1,5 @@
+numbers = list(map(int, input().split()))
+mean_value = sum(numbers) / len(numbers)
+range_value = max(numbers) - min(numbers)
+print(f"{mean_value:.2f}")
+print(range_value)
