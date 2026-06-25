@@ -1,0 +1,2 @@
+print("DIR")
+print("FILE")
