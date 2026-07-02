@@ -1,0 +1,1 @@
+print("Birinchi xabar va komment")
