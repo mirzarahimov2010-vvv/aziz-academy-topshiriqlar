@@ -1,1 +1,3 @@
-print("kk")
+print("True")
+print("False")
+print("False")
