@@ -1,1 +1,1 @@
-print("end")
+print("Salom dunyo!")
