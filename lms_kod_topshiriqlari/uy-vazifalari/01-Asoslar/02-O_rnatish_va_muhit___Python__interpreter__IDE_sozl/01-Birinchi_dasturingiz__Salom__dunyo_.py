@@ -1,1 +1,1 @@
-print("Birinchi dasturingiz: Salom, dunyo!")
+print("Salom, dunyo!")
