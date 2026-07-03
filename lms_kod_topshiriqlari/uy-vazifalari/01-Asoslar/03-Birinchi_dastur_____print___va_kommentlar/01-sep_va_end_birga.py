@@ -1,1 +1,1 @@
-print("sep")
+print("A-B-C")
