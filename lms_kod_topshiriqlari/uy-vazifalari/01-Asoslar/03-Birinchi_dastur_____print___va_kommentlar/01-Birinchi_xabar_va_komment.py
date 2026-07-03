@@ -1,1 +1,1 @@
-print("Birinchi xabar va komment")
+print("Men Python o'rganyapman!")
