@@ -1,1 +1,1 @@
-print("2")
+print("Python juda kuchli til")
