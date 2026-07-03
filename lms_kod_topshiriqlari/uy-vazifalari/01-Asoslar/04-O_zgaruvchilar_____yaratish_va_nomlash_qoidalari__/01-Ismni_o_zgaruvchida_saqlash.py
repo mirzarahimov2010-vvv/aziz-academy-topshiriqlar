@@ -1,1 +1,1 @@
-print("Javlon")
+print("Ism: Aziz")
