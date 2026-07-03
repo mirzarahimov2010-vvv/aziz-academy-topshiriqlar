@@ -1,1 +1,3 @@
-print("jj")
+print("True")
+print("False")
+print("False")
