@@ -1,1 +1,1 @@
-print("sep")
+print("olma, banan, uzum")
