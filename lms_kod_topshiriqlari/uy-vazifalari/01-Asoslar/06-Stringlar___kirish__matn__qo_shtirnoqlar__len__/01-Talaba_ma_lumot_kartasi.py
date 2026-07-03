@@ -1,1 +1,5 @@
-print("r")
+print("=== KARTA ===")
+print("Ism: Aziz Karimov")
+print("Kurs: Python")
+print("Shahar: Toshkent")
+print("Ism uzunligi: 12")
