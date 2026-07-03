@@ -1,1 +1,3 @@
-print("r")
+print("False")
+print("True")
+print("False")
