@@ -1,1 +1,2 @@
-print("oy")
+print("Boshlandi")
+print("Tugadi")
