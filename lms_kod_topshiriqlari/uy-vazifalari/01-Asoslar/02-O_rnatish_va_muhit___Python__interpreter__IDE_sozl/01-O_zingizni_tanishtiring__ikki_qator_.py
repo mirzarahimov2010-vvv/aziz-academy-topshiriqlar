@@ -1,2 +1,2 @@
-print("Mening ismim")
-print("Javlon")
+print("Assalomu alaykum!")
+print("Men Python dasturlash tilini o'rganyapman.")
