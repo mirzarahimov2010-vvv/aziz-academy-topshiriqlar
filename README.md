@@ -4,10 +4,10 @@
 
 ## 📊 Umumiy progress
 
-`█████████░░░░░░░░░░░` **44%**  (78/179 mavzu)
+`█████████░░░░░░░░░░░` **44%**  (79/179 mavzu)
 
-- ⭐ Jami ball: **19957**
-- 📤 GitHubga yuborilgan topshiriqlar: **1226**
+- ⭐ Jami ball: **19962**
+- 📤 GitHubga yuborilgan topshiriqlar: **1227**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -44,7 +44,7 @@
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
-| 5 | 🔸 Comprehensions | `██████░░░░` 60% | 3/5 |
+| 5 | 🔸 Comprehensions | `████████░░` 80% | 4/5 |
 | 6 | 🔸 Funksiyalar | `████░░░░░░` 42% | 5/12 |
 | 7 | 🔸 Modullar va Fayllar | `████████░░` 80% | 12/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-03 15:02</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-04 10:44</sub>
