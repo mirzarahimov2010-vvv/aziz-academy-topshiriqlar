@@ -4,4 +4,4 @@ x = int(input())
 if x in nums:
     print("Bor")
 else:
-    print("Yo'q")
+    print("Yo'q") 
