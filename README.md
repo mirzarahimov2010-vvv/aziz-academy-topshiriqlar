@@ -1,38 +1,38 @@
-# 🎓 Aziz Academy — MIRZARAXIMOV JAVLONBEK
+# 🎓 Aziz Academy — Mirzaraximov Javlonbek
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`█████████░░░░░░░░░░░` **47%**  (85/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **6%**  (11/179 mavzu)
 
-- ⭐ Jami ball: **62450**
-- 📤 GitHubga yuborilgan topshiriqlar: **1563**
+- ⭐ Jami ball: **63960**
+- 📤 GitHubga yuborilgan topshiriqlar: **1564**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **os va pathlib bilan fayl tizimida yurish**
+**MODUL 1 — Asoslar** → **Solishtirish operatorlari — == != > < >= <=**
 
-➡️ Keyingi mavzu: *🛠 Loyiha: To-Do / Telefon kitobcha — fayl asosida CRUD*
+➡️ Keyingi mavzu: *Type casting ⭐ — type(), int(), float(), str(), bool()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Modullarga bo'lish — bitta faylda bir nechta funksiya
-- ✅ O'z modulini yaratish ⭐ — import qilish
-- ✅ import turlari — import x vs from x import y
-- ✅ math moduli — matematik funksiyalar
-- ✅ random moduli ⭐ — tasodifiy sonlar, tanlash, aralashtirish
-- ✅ datetime moduli — sana va vaqt bilan ishlash
-- ✅ time va benchmark — vaqtni o'lchash, dastur tezligi
-- ✅ Fayllar — 1 ⭐ — open, read, write, rejimlar (r, w, a)
-- ✅ Fayllar — 2 ⭐ — with va context manager
-- ✅ CSV bilan ishlash — csv moduli, jadval ma'lumotlari
-- ✅ JSON bilan ishlash ⭐ — json moduli, saqlash/o'qish
-- ⬜ 🛠 Loyiha: To-Do / Telefon kitobcha — fayl asosida CRUD
-- ✅ os va pathlib bilan fayl tizimida yurish  ← yetgan joyingiz
-- ⬜ Konfiguratsiya fayllari, log fayl tushunchasi
-- ⬜ Fayl kodirovkasi, UTF-8, oddiy muammolar
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=  ← yetgan joyingiz
+- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -40,13 +40,13 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
-| 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
-| 6 | 🔸 Funksiyalar | `████████░░` 83% | 10/12 |
-| 7 | 🔸 Modullar va Fayllar | `████████░░` 80% | 12/15 |
+| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
+| 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
+| 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
+| 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
+| 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-12 18:41</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 09:21</sub>
