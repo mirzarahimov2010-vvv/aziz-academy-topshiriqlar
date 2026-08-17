@@ -1,0 +1,1 @@
+print(sorted({len(w) for w in input().split()}))
