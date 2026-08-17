@@ -1,0 +1,1 @@
+print({int(p): int(p) - int(p) // 10 for p in input().split() if int(p) >= 100})
