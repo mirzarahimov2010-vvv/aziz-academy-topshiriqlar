@@ -1,0 +1,1 @@
+print([int(p) + int(p) * 12 // 100 for p in input().split()])
