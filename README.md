@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`██████████░░░░░░░░░░` **49%**  (88/179 mavzu)
+`██████████░░░░░░░░░░` **50%**  (89/179 mavzu)
 
-- ⭐ Jami ball: **131121**
-- 📤 GitHubga yuborilgan topshiriqlar: **1776**
+- ⭐ Jami ball: **131947**
+- 📤 GitHubga yuborilgan topshiriqlar: **1777**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **os va pathlib bilan fayl tizimida yurish**
+**MODUL 7 — Modullar va Fayllar** → **Konfiguratsiya fayllari, log fayl tushunchasi**
 
-➡️ Keyingi mavzu: *Konfiguratsiya fayllari, log fayl tushunchasi*
+➡️ Keyingi mavzu: *Fayl kodirovkasi, UTF-8, oddiy muammolar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -30,8 +30,8 @@
 - ✅ CSV bilan ishlash — csv moduli, jadval ma'lumotlari
 - ✅ JSON bilan ishlash ⭐ — json moduli, saqlash/o'qish
 - ✅ 🛠 Loyiha: To-Do / Telefon kitobcha — fayl asosida CRUD
-- ✅ os va pathlib bilan fayl tizimida yurish  ← yetgan joyingiz
-- ⬜ Konfiguratsiya fayllari, log fayl tushunchasi
+- ✅ os va pathlib bilan fayl tizimida yurish
+- ✅ Konfiguratsiya fayllari, log fayl tushunchasi  ← yetgan joyingiz
 - ⬜ Fayl kodirovkasi, UTF-8, oddiy muammolar
 
 </details>
@@ -46,7 +46,7 @@
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
-| 7 | 🔸 Modullar va Fayllar | `█████████░` 87% | 13/15 |
+| 7 | 🔸 Modullar va Fayllar | `█████████░` 93% | 14/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-11 17:32</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-12 16:47</sub>
