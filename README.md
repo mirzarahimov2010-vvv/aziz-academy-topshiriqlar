@@ -4,33 +4,31 @@
 
 ## 📊 Umumiy progress
 
-`██████████░░░░░░░░░░` **48%**  (86/179 mavzu)
+`██████████░░░░░░░░░░` **51%**  (91/179 mavzu)
 
-- ⭐ Jami ball: **133052**
-- 📤 GitHubga yuborilgan topshiriqlar: **1810**
+- ⭐ Jami ball: **223702**
+- 📤 GitHubga yuborilgan topshiriqlar: **1811**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **Fayl kodirovkasi, UTF-8, oddiy muammolar**
+**MODUL 8 — Xatolar, Test va Debug** → **try / except ⭐ — xatoliklarni ushlash asoslari**
+
+➡️ Keyingi mavzu: *else va finally — to'liq xatolik bloki*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Modullarga bo'lish — bitta faylda bir nechta funksiya
-- ✅ O'z modulini yaratish ⭐ — import qilish
-- ✅ import turlari — import x vs from x import y
-- ✅ math moduli — matematik funksiyalar
-- ✅ random moduli ⭐ — tasodifiy sonlar, tanlash, aralashtirish
-- ✅ datetime moduli — sana va vaqt bilan ishlash
-- ✅ time va benchmark — vaqtni o'lchash, dastur tezligi
-- ✅ Fayllar — 1 ⭐ — open, read, write, rejimlar (r, w, a)
-- ✅ Fayllar — 2 ⭐ — with va context manager
-- ✅ CSV bilan ishlash — csv moduli, jadval ma'lumotlari
-- ✅ JSON bilan ishlash ⭐ — json moduli, saqlash/o'qish
-- ✅ 🛠 Loyiha: To-Do / Telefon kitobcha — fayl asosida CRUD
-- ✅ os va pathlib bilan fayl tizimida yurish
-- ✅ Konfiguratsiya fayllari, log fayl tushunchasi
-- ✅ Fayl kodirovkasi, UTF-8, oddiy muammolar  ← yetgan joyingiz
+- ✅ try / except ⭐ — xatoliklarni ushlash asoslari  ← yetgan joyingiz
+- ⬜ else va finally — to'liq xatolik bloki
+- ⬜ Aniq exception turlari ⭐ — ValueError, KeyError, TypeError
+- ⬜ O'z xatongni raise qilish — xato yaratish, qachon kerak
+- ⬜ assert — o'z-o'zini tekshirish
+- ⬜ logging moduli ⭐ — print o'rniga professional log
+- ⬜ Debugging — print-debug vs debugger (pdb / IDE)
+- ⬜ pytest bilan test ⭐ — zamonaviy test yozish
+- ⬜ TDD tushunchasi — avval test, keyin kod
+- ⬜ Toza kod tavsiyalari 🔁 — xatosiz kod yozish prinsiplari
+- ⬜ doctest tushunchasi
 
 </details>
 
@@ -38,14 +36,14 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
-| 2 | 🔸 Stringlar va Formatlash | `█████████░` 90% | 9/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█████████░` 93% | 14/15 |
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
+| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
+| 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
-| 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
+| 8 | 🔸 Xatolar, Test va Debug | `█░░░░░░░░░` 9% | 1/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
@@ -61,4 +59,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-19 10:47</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-22 11:24</sub>
