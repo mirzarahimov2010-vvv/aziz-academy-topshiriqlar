@@ -6,28 +6,28 @@
 
 `███████████░░░░░░░░░` **54%**  (96/179 mavzu)
 
-- ⭐ Jami ball: **156250**
-- 📤 GitHubga yuborilgan topshiriqlar: **1890**
+- ⭐ Jami ball: **156275**
+- 📤 GitHubga yuborilgan topshiriqlar: **1891**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 8 — Xatolar, Test va Debug** → **logging moduli ⭐ — print o'rniga professional log**
+**MODUL 8 — Xatolar, Test va Debug** → **logging moduli ⭐ - print o'rniga professional log**
 
-➡️ Keyingi mavzu: *Debugging — print-debug vs debugger (pdb / IDE)*
+➡️ Keyingi mavzu: *Debugging - print-debug vs debugger (pdb / IDE)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ try / except ⭐ — xatoliklarni ushlash asoslari
-- ✅ else va finally — to'liq xatolik bloki
-- ✅ Aniq exception turlari ⭐ — ValueError, KeyError, TypeError
-- ✅ O'z xatongni raise qilish — xato yaratish, qachon kerak
-- ✅ assert — o'z-o'zini tekshirish
-- ✅ logging moduli ⭐ — print o'rniga professional log  ← yetgan joyingiz
-- ⬜ Debugging — print-debug vs debugger (pdb / IDE)
-- ⬜ pytest bilan test ⭐ — zamonaviy test yozish
-- ⬜ TDD tushunchasi — avval test, keyin kod
-- ⬜ Toza kod tavsiyalari 🔁 — xatosiz kod yozish prinsiplari
+- ✅ try / except ⭐ - xatoliklarni ushlash asoslari
+- ✅ else va finally - to'liq xatolik bloki
+- ✅ Aniq exception turlari ⭐ - ValueError, KeyError, TypeError
+- ✅ O'z xatongni raise qilish - xato yaratish, qachon kerak
+- ✅ assert - o'z-o'zini tekshirish
+- ✅ logging moduli ⭐ - print o'rniga professional log  ← yetgan joyingiz
+- ⬜ Debugging - print-debug vs debugger (pdb / IDE)
+- ⬜ pytest bilan test ⭐ - zamonaviy test yozish
+- ⬜ TDD tushunchasi - avval test, keyin kod
+- ⬜ Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari
 - ⬜ doctest tushunchasi
 
 </details>
@@ -59,4 +59,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-13 11:11</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-16 06:35</sub>
